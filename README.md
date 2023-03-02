@@ -44,8 +44,7 @@ Any kind of useful contribution is more than welcome! 🤗
 You can use this project, but make sure to **fork** it instead of cloning and pushing it to your repository.
 
 ## Video tutorial
-
-**Coming soon**
+[How To Create A Full GUI Project Using JavaFX: Base Calculator](https://youtu.be/KMpshYEIxFs)
 
 ## Written step by step article
 
