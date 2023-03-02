@@ -10,7 +10,7 @@ import java.io.IOException;
 public class NextScreen extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("nextscreen-view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(MainLanding.class.getResource("nextscreen-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
         stage.setTitle("Base Conversion Calculator");
         stage.setScene(scene);
