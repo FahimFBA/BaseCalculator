@@ -1,4 +1,4 @@
-# Base Calculator
+# 💎 Base Calculator
 
 ![BaseCalculator](images/img%20(1).png)
 
@@ -19,33 +19,33 @@ Conversion in action!
 Print invalid input to show the user.
 
 
-## Backstory
+## ✒️ Backstory
 
 I made this project for my Advanced Object Oriented Programming Lab at United International University. It was our first quiz day, and our faculty asked us to make this project. I managed to build the entire project from scratch within 16 minutes. But I have also created a long step by step tutorial video to show others how you can also make this type projects from scratch!
 
-## Feature
+## 💻 Features
 
-1. Decimal to Binary
-2. Decimal to Hexadecimal
-3. Decimal to Octal
-4. Next Screen button to go into additional pages
-5. Clear the User Panel
-6. Exit the program
+✅ Decimal to Binary <br>
+✅ Decimal to Hexadecimal <br>
+✅ Decimal to Octal <br>
+✅ Next Screen button to go into additional pages <br>
+✅ Clear the User Panel <br>
+✅ Exit the program <br>
 
-## Main class
+## 🔍 Main class
 The main class is **MainLanding** class that is located within `src/main/java/com/calculator/basecalculator/MainLanding.java`.
 
-## Contribution
+## 🫴🏻 Contribution
 
 Any kind of useful contribution is more than welcome! 🤗
 
-## Usage
+## 👔 Usage
 
 You can use this project, but make sure to **fork** it instead of cloning and pushing it to your repository.
 
-## Video tutorial
+## 📺 Video tutorial
 [How To Create A Full GUI Project Using JavaFX: Base Calculator](https://youtu.be/KMpshYEIxFs)
 
-## Written step by step article
+## 🔖 Written step by step article
 
 **Coming soon on freeCodeCamp**
