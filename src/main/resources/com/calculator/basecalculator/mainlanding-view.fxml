@@ -8,32 +8,32 @@
 
 <AnchorPane prefHeight="376.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.calculator.basecalculator.MainLandingController">
    <children>
-      <TextField layoutX="3.0" layoutY="1.0" prefHeight="87.0" prefWidth="594.0">
+      <TextField fx:id="UserInput" layoutX="3.0" layoutY="1.0" onAction="#UserInput" prefHeight="87.0" prefWidth="594.0">
          <font>
             <Font size="24.0" />
          </font>
       </TextField>
-      <Label layoutX="3.0" layoutY="88.0" prefHeight="87.0" prefWidth="594.0" text="                      No Input" textAlignment="CENTER">
+      <Label fx:id="OutputPanel" layoutX="3.0" layoutY="88.0" prefHeight="87.0" prefWidth="594.0" text="                      No Input" textAlignment="CENTER">
          <font>
             <Font name="System Bold" size="36.0" />
          </font>
       </Label>
-      <Button layoutX="2.0" layoutY="200.0" mnemonicParsing="false" prefHeight="55.0" prefWidth="300.0" text="Binary">
+      <Button fx:id="BinaryButton" layoutX="2.0" layoutY="200.0" mnemonicParsing="false" onAction="#BinaryButton" prefHeight="55.0" prefWidth="300.0" text="Binary">
          <font>
             <Font size="24.0" />
          </font>
       </Button>
-      <Button layoutX="303.0" layoutY="200.0" mnemonicParsing="false" prefHeight="55.0" prefWidth="294.0" text="Hexadecimal">
+      <Button fx:id="Hexadecimal" layoutX="303.0" layoutY="200.0" mnemonicParsing="false" onAction="#Hexadecimal" prefHeight="55.0" prefWidth="294.0" text="Hexadecimal">
          <font>
             <Font size="24.0" />
          </font>
       </Button>
-      <Button layoutX="2.0" layoutY="255.0" mnemonicParsing="false" prefHeight="55.0" prefWidth="300.0" text="Octal">
+      <Button fx:id="OctalButton" layoutX="2.0" layoutY="255.0" mnemonicParsing="false" onAction="#OctalButton" prefHeight="55.0" prefWidth="300.0" text="Octal">
          <font>
             <Font size="24.0" />
          </font>
       </Button>
-      <Button layoutX="302.0" layoutY="255.0" mnemonicParsing="false" prefHeight="55.0" prefWidth="294.0" text="Next Screen">
+      <Button fx:id="NextScreenButton" layoutX="302.0" layoutY="255.0" mnemonicParsing="false" onAction="#NextScreenButton" prefHeight="55.0" prefWidth="294.0" text="Next Screen">
          <font>
             <Font size="24.0" />
          </font>
@@ -43,7 +43,7 @@
             <Font size="24.0" />
          </font>
       </Button>
-      <Button layoutX="303.0" layoutY="310.0" mnemonicParsing="false" prefHeight="55.0" prefWidth="294.0" text="Clear">
+      <Button fx:id="ClearButton" layoutX="303.0" layoutY="310.0" mnemonicParsing="false" onAction="#ClearButton" prefHeight="55.0" prefWidth="294.0" text="Clear">
          <font>
             <Font size="24.0" />
          </font>
