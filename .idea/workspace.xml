@@ -10,6 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0adb0eca-1659-4a43-adc1-d3f6e3cb2ebe" name="Changes" comment="Remove: HelloApplication&#10;Default: MainLanding">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img (4).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/fahim/Desktop/BaseCalculator/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +66,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fahim\Desktop\BaseCalculator\images" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.MainLanding">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.calculator.basecalculator.HelloApplication" />
@@ -118,6 +129,7 @@
       <updated>1677698163917</updated>
       <workItem from="1677698164988" duration="2012000" />
       <workItem from="1677734702492" duration="3535000" />
+      <workItem from="1677738827148" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="Project initialized">
       <created>1677698389320</created>
