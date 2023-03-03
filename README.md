@@ -7,7 +7,7 @@ A BaseCalculator desktop application using JavaFX (Binary, Octal, Hexadecimal).
 <br>
 
 
-### 🥇 This project along with the step-by=step tutorial has been featured as "Links of the Week" on [JFX-Central](https://www.jfx-central.com/home).
+### 🥇 This project along with the step-by-step tutorial has been featured as "Links of the Week" on [JFX-Central](https://www.jfx-central.com/home).
 <br>
 
 ![JFX-Central](images/JFX-Central.png)
